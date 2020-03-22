@@ -1,7 +1,7 @@
 # Microservice in Python using FastAPI + Postgresql
 Building simple microservices with Python
 
-[https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc#conclusion](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc#conclusion)
+[https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
 
 ## Running on Docker
 Running on docker using docker-compose
